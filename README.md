@@ -1,7 +1,8 @@
 <h1 align="center"> LoRa-Esp32 Hat to a Raspberry Pi Zero W  </h1>
 
 <h2 align="center"> Project Description </h2>
-An Esp32 with LoRa to connect with a Raspberry Pi Zero W using serial Pins <br/>
+An Esp32 with LoRa to connect with a Raspberry Pi Zero W using serial Pins to use with this python [script](https://github.com/joaouzeda/PyPublisher) and the Reciver [firmware](https://github.com/joaouzeda/Mestre-escravo-Lora) on esp32.<br/>
+
 
 <img src="/LoraHat.png"/><br/>
 
@@ -14,7 +15,7 @@ Date: 2026, April <br/>
 
 <h2 align="center"> Autores </h2>
 
-|[<img loading="lazy" src="https://avatars.githubusercontent.com/u/55409817?v=4" width=115><br><sub>João Uzêda</sub>](https://github.com/joaouzeda)|  
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/55409817?v=4" width=115><br></sub>João Uzêda</sub>](https://github.com/joaouzeda) 
 
 # *Badges*
 
