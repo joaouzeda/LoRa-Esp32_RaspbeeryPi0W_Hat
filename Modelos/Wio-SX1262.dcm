@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Wio-SX1262
+D Multiprotocol Modules XIAO ESP32S3 & Wio-SX1262 Kit with 3D case for Meshtastic & LoRa
+K
+F https://files.seeedstudio.com/products/SenseCAP/Wio_SX1262/Wio-SX1262_Module_Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
